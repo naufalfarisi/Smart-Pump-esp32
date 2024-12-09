@@ -50,8 +50,8 @@ void loop() {
 
     // Blink LED untuk memverifikasi program berjalan
     digitalWrite(LED_BUILTIN, HIGH);
-    delay(1000);
+    delay(500);
     digitalWrite(LED_BUILTIN, LOW);
-    delay(1000);
+    delay(500);
 
 }
